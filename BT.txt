@@ -1,0 +1,11 @@
+Modulation = pi/4 DQPSK
+PRBS9 = 0x1FF
+Symbol Rate = 1e6
+Bit Rate = 2e6
+Sample rate = 20e6
+Number of symbols = 5000
+Number of bit 10000
+Time length = 5000/1e6 = 5ms
+Number of IQ sample = 5000 x 20 
+Pulse shape = rectangular (each symbol repeated 20 samples)
+Carrier = NA 
